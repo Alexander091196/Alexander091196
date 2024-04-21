@@ -1,3 +1,5 @@
+![Header](banner.png)
+
 ### Hola👋 Soy Carlos Alexander Seclén Custodio
 
 **Actualmente estoy cursando Ingeniería de Sistemas y Computación con un enfoque apasionado hacia la tecnología, los datos y la programación. Me especializo en el desarrollo backend, donde estoy consolidando mis habilidades y profundizando mis conocimientos en inteligencia artificial.**
