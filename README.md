@@ -8,6 +8,9 @@
 * 🤝  Estoy dispuesto a colaborar en proyectos que desafíen mis limites y aborden puntos tecnológicos, ya sea desarrollando aplicaciones innovadoras o explorando el campo del aprendizaje automático.
 * ⚡  Cuando no estoy programando o enfrentando desafíos tecnológicos, disfruto jugando fútbol o videojuegos. La combinación de mi pasión por la tecnología con actividades deportivas y de ocio me mantiene inspirado y lleno de energía para enfrentar nuevos desafíos.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexander091196&label=Profile%20views&color=0e75b6&style=flat" alt="Alexander091196" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexander091196" alt="Alexander091196" /></a> </p>
 
 ### Habilidades
 
