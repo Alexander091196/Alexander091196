@@ -8,9 +8,6 @@
 * 🤝  Estoy dispuesto a colaborar en proyectos que desafíen mis limites y aborden puntos tecnológicos, ya sea desarrollando aplicaciones innovadoras o explorando el campo del aprendizaje automático.
 * ⚡  Cuando no estoy programando o enfrentando desafíos tecnológicos, disfruto jugando fútbol o videojuegos. La combinación de mi pasión por la tecnología con actividades deportivas y de ocio me mantiene inspirado y lleno de energía para enfrentar nuevos desafíos.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexander091196&label=Profile%20views&color=0e75b6&style=flat" alt="Alexander091196" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexander091196" alt="Alexander091196" /></a> </p>
 
 ### Habilidades
 
@@ -23,6 +20,8 @@
 <p align="left"> <a href="https://www.facebook.com/alexander.seclen.39" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/salexanderc09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/carlos-alexander-seclen-1b5304128/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Estadísticas
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexander091196" alt="Alexander091196" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexander091196&show_icons=true&locale=en&layout=compact" alt="Alexander091196" /></p>
 
