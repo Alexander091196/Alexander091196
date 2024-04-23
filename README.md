@@ -1,7 +1,7 @@
 ![Header](banner.png)
 
 ### Hola👋 
-**Actualmente estoy cursando Ingeniería de Sistemas y Computación con un enfoque apasionado hacia la tecnología, los datos y la programación. Me especializo en el desarrollo backend, donde estoy consolidando mis habilidades y profundizando mis conocimientos en inteligencia artificial.**
+**Estoy cursando la carrera de Ingeniería de Sistemas y Computación con un enfoque apasionado hacia la tecnología, los datos y la programación. Me especializo en el desarrollo backend, donde estoy consolidando mis habilidades y profundizando mis conocimientos en inteligencia artificial.**
 
 * 🌍  Resido en Chiclayo, Perú.
 * 🧠  Actualmente estoy avanzando en el desarrollo backend, centrándome en Python y Java, además de trabajar con frameworks como Flask. Mi objetivo principal es diseñar y desarrollar soluciones eficaces y escalables para abordar desafíos complejos de manera efectiva.
@@ -23,8 +23,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexander091196" alt="Alexander091196" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexander091196&show_icons=true&locale=en&layout=compact" alt="Alexander091196" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexander091196&show_icons=true&locale=en" alt="Alexander091196" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander091196&" alt="Alexander091196" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexander091196&show_icons=true&locale=en&layout=compact" alt="Alexander091196" /></p>
