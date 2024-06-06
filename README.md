@@ -16,7 +16,9 @@
 </p>
 
 ### REDES SOCIALES
-
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Alexander091196&&style=flat-square" align="center" />
+</div> <br>
 <p align="left"> <a href="https://www.facebook.com/alexander.seclen.39" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/salexanderc09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/carlos-alexander-seclen-1b5304128/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### EESTADÍSTICAS
@@ -26,9 +28,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander091196&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=Alexander091196&&style=flat-square" align="center" />
-</div>  
+
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexander091196&show_icons=true&locale=en" alt="Alexander091196" /></p>
 
