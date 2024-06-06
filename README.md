@@ -30,6 +30,6 @@
 <img src="https://komarev.com/ghpvc/?username=Alexander091196&&style=flat-square" align="center" />
 </div>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexander091196&show_icons=true&locale=en" alt="Alexander091196" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexander091196&show_icons=true&locale=en" alt="Alexander091196" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander091196&" alt="Alexander091196" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander091196&" alt="Alexander091196" /></p> -->
