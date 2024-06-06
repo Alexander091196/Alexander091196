@@ -21,6 +21,12 @@
 
 ### EESTADÍSTICAS
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander091196&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=adrianvchvz&&style=flat-square" align="center" />
+</div>  
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexander091196" alt="Alexander091196" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexander091196&show_icons=true&locale=en&layout=compact" alt="Alexander091196" /></p>
