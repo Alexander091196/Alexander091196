@@ -1,7 +1,7 @@
 ![Header](banner.png)
 
 ### Hola👋 
-**Soy egresado de Ingeniería de Sistemas y Computación, con un enfoque en backend y un interés creciente en inteligencia artificial y desarrollo Full Stack.**
+**Ingeniero en Sistemas y Computación, con un enfoque en backend y un interés creciente en inteligencia artificial, Analisis de Negocio y soporte.**
 
 * 🌍  Resido en Chiclayo, Perú.
 * 🧠  Actualmente me especializo en Python, Java y frameworks como Flask, desarrollando soluciones escalables y efectivas.
